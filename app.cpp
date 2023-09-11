@@ -11,7 +11,6 @@
 // 06 classes are consists of objects
 // 07 operator <<
 // 08 cout and "Hello World" are Operands
-// 09 
 using namespace std;
 
 int main() // main func
